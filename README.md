@@ -1,116 +1,149 @@
-📁 Automation Tools - Text File Editor & Backup Manager
+# 🛠 Automation Tools - Text File Editor & Backup Manager
 
-This tool allows you to search, edit, and manage .txt files using a powerful terminal interface with built-in backup and rollback functionality.
-🔧 Features
+![CI](https://github.com/zeusofyork/Automation_Tools/actions/workflows/test-edit-restore.yml/badge.svg)
 
-    ✅ Search .txt files for any string
+A terminal-based tool for safely searching and editing `.txt` files with backup, restore, and rollback capabilities.
 
-    ✅ Edit single or multiple lines:
+---
 
-        Replace part of a string
+## 🚀 Features
 
-        Replace entire line
+- 🔍 Search text files for matching strings
+- ✏️ Edit individual or all matched lines:
+  - Replace part of a line
+  - Replace the full line
+  - Delete the line
+- 🔁 Batch edit with `*` to update all matches at once
+- 🧱 Saves timestamped `.bak` backups in `data_files/backups/`
+- 🧪 Rollback to the most recent `.bak` for any file
+- 🗃 Tracks all changes in per-user `logs/`
+- 🧭 Save and reuse directories for future searches
+- ✅ GitHub Actions CI:
+  - Lints your code
+  - Simulates edits and restoration
+  - Verifies using MD5 checksums
+  - Cleans up backup files
+- 🔒 Pre-commit Git hook to prevent accidental commits of `.bak` files
 
-        Delete line
+---
 
-    ✅ Batch mode using * to edit all matched lines at once
+## 📁 Project Structure
 
-    ✅ Automatically backs up files with a timestamped .bak in data_files/backups/
-
-    ✅ Rollback from latest .bak files
-
-    ✅ Tracks changes in per-user log files (logs/)
-
-    ✅ Saves and recalls commonly used search directories
-
-    ✅ Git pre-commit hook to prevent committing .bak files
-
-
-
-
-
-
-<pre>
-📁 Folder Structure
+```
 Automation_Tools/
 ├── data_files/
-│   ├── backups/             # stores .bak backups
-│   └── .gitkeep             # keeps folder tracked
+│   ├── backups/              # Stores .bak files
+│   └── .gitkeep              # Placeholder to keep folder in Git
 ├── python/
+│   ├── search_edit.py        # Main script
 │   └── tests/
-│       ├── test_data_files/
-│       │   └── example.txt  # base test file
-│       └── test_runner.py   # auto test script with MD5 validation
-└── .github/
-    └── workflows/
-        └── test-edit-restore.yml  # GitHub Actions workflow
-</pre>
+│       ├── test_runner.py    # Test automation with md5 restore checks
+│       └── test_data_files/
+│           └── example.txt   # Sample file for automated test
+├── .github/
+│   └── workflows/
+│       └── test-edit-restore.yml
+└── README.md
+```
 
+---
 
+## ▶️ Usage
 
-▶️ How to Run
+Run the script:
 
-From the python/ directory:
+```bash
+python python/search_edit.py
+```
 
-python3 search_edit.py
+Choose to:
+- Edit files (with full backup and logging)
+- Rollback from backup files
 
+When editing:
+- Use comma-separated line numbers to edit individually
+- Use `*` to batch-edit all matches with a single action
 
-🧑‍💻 Edit Mode
+---
 
-When you run the script, choose:
+## 🧪 Run Tests Locally
 
-1. Edit files
-2. Rollback files from backup
+```bash
+python python/tests/test_runner.py
+```
 
-In Edit Mode, you'll:
+This test:
+- Edits a file
+- Restores it from a `.bak`
+- Confirms the restore using MD5 checksum match
 
-    Select files with match numbers or * for all
+---
 
-    Choose your action (replace, delete, full edit, rollback)
+## 🚫 Git Pre-Commit Hook
 
-    Optionally select or save directories
+To prevent accidental commits of `.bak` files:
 
-♻️ Rollback Mode
+1. Add this to `.gitignore`:
 
-In Rollback Mode:
-
-    View all .bak files created
-
-    Select one or more to restore
-
-    Optionally restore all
-
-🛡 Git Integration
-
-To avoid committing temporary backups:
-
-    Add this to .gitignore:
-
-# Ignore all .bak files
+```gitignore
 *.bak
+```
 
-    Use the included pre-commit hook:
+2. Use the `pre-commit` hook script:
 
-        Located in .git/hooks/pre-commit
+```bash
+# .git/hooks/pre-commit
+#!/bin/bash
 
-        It detects .bak files staged for commit
+bak_files=$(git diff --cached --name-only | grep '\.bak$')
 
-        Prompts to delete them or abort the commit
+if [[ -n "$bak_files" ]]; then
+  echo "⚠️  The following .bak files are staged:"
+  echo "$bak_files"
+  read -p "Delete these files before commit? [y/N]: " confirm
+  if [[ "$confirm" =~ ^[Yy]$ ]]; then
+    for file in $bak_files; do
+      git rm --cached "$file"
+      rm -f "$file"
+      echo "🗑️  Deleted $file"
+    done
+  else
+    echo "❌ Commit aborted."
+    exit 1
+  fi
+fi
+```
 
-🧪 Example Log
+Make it executable:
 
-logs/2025-04-08_zeuso.log:
+```bash
+chmod +x .git/hooks/pre-commit
+```
 
-[FILE]: data_files/test.txt
-[LINE]: 4
-[CHANGE]:
-!!**API_KEY = "dev"**!! --> !!**API_KEY = "prod"**!!
-------------------------------------------------------------
+---
 
-📌 Notes
+## 🛠 GitHub Actions Workflow
 
-    Works only on .txt files (future versions can include additional file formats e.g. csv, html, css etc.
+The included GitHub Actions workflow:
 
-    Logs are saved per user per session
+- Checks for Python syntax errors using `flake8`
+- Runs `test_runner.py` to simulate edit/restore
+- Confirms file integrity using MD5 checksums
+- Deletes `.bak` files after test
 
-    Backup filenames include original name + timestamp
+You’ll find this in:
+
+```
+.github/workflows/test-edit-restore.yml
+```
+
+---
+
+## 🧠 Coming Soon Ideas
+
+- GUI with Tkinter
+- Configurable `.ini`/`.env` for default settings
+- Test coverage badge
+- GitHub release automation with zipped logs/backups
+
+---
