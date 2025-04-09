@@ -3,7 +3,7 @@ import shutil
 from pathlib import Path
 
 DATA_DIR = Path(__file__).parent / "test_data_files"
-BACKUP_DIR = Path(__file__).parents[1] / "data_files/backups"
+BACKUP_DIR = Path(__file__).parents[1] / "Automation_Tools/data_files/backups"
 TEST_FILE = DATA_DIR / "example.txt"
 MODIFIED_FILE = DATA_DIR / "example_modified.txt"
 
