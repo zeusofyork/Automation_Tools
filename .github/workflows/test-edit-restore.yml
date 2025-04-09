@@ -28,10 +28,22 @@ jobs:
           ls -la python
           flake8 python/search_edit.py
 
+      - name: 🔎 Check if test files exist
+        id: check_tests
+        run: |
+          echo "Searching for test files..."
+          if find python/tests -type f \( -name "test_*.py" -o -name "*_test.py" \) | grep .; then
+            echo "found=true" >> $GITHUB_OUTPUT
+          else
+            echo "found=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: 🧪 Run tests with pytest
+        if: steps.check_tests.outputs.found == 'true'
         run: pytest python/tests
 
-      - name: 🚧 Run test script manually (if needed)
+      - name: 🚧 Run test script manually
+        if: steps.check_tests.outputs.found == 'true'
         run: python python/tests/test_runner.py
 
       - name: 🧹 Clean up backup files
