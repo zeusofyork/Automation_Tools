@@ -30,7 +30,8 @@ This tool allows you to search, edit, and manage .txt files using a powerful ter
 
     📁 Folder Structure
 
-<pre> ```text Automation_Tools/ 
+<pre>
+    Automation_Tools/ 
     ├── data_files/ # Working directory for text files │ 
     ├── backups/ # Where .bak backups are stored │ 
     └── *.txt # Dummy/editable text files 
@@ -40,7 +41,8 @@ This tool allows you to search, edit, and manage .txt files using a powerful ter
     └── saved_dirs.json # Stores custom directory history 
     ├── .git/hooks/ │ 
     └── pre-commit # Prevents accidental commit of .bak files 
-    └── README.md ``` </pre>
+    └── README.md
+</pre>
 
 
 
