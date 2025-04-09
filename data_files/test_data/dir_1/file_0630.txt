@@ -1,0 +1,21 @@
+# This is a comment in Python
+# This is a comment in Python
+# This is a comment in Python
+for i in range(10):
+    print(i)
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+# This is a comment in Python
+# This is a comment in Python
+This is a simple test sentence.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+Error: Invalid operation at line 45.
+if (user.isAuthenticated()) {
+    showDashboard();
+}

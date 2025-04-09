@@ -1,0 +1,14 @@
+def hello_world():
+    print('Hello, world!')
+SELECT * FROM users WHERE active = 1;
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+Error: Invalid operation at line 45.

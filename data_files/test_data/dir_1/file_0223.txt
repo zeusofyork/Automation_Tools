@@ -1,0 +1,20 @@
+This is a simple test sentence.
+Error: Invalid operation at line 45.
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+# This is a comment in Python
+System.out.println("Java output line");
+System.out.println("Java output line");
+This is a simple test sentence.
+# This is a comment in Python

@@ -1,0 +1,14 @@
+This is a simple test sentence.
+<div class='container'>HTML block</div>
+Error: Invalid operation at line 45.
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}

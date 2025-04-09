@@ -1,0 +1,9 @@
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;

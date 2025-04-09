@@ -1,0 +1,16 @@
+Error: Invalid operation at line 45.
+SELECT * FROM users WHERE active = 1;
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}

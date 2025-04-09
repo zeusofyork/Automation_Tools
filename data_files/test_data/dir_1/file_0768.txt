@@ -1,0 +1,18 @@
+<div class='container'>HTML block</div>
+This is a simple test sentence.
+for i in range(10):
+    print(i)
+System.out.println("Java output line");
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+Error: Invalid operation at line 45.
+System.out.println("Java output line");
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+<div class='container'>HTML block</div>
+This is a simple test sentence.

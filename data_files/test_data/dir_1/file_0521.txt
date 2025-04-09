@@ -1,0 +1,11 @@
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+SELECT * FROM users WHERE active = 1;
+Error: Invalid operation at line 45.

@@ -1,0 +1,20 @@
+Error: Invalid operation at line 45.
+This is a simple test sentence.
+for i in range(10):
+    print(i)
+# This is a comment in Python
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+Error: Invalid operation at line 45.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+SELECT * FROM users WHERE active = 1;
+SELECT * FROM users WHERE active = 1;
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)

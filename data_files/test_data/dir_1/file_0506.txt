@@ -1,0 +1,19 @@
+# This is a comment in Python
+This is a simple test sentence.
+This is a simple test sentence.
+for i in range(10):
+    print(i)
+# This is a comment in Python
+for i in range(10):
+    print(i)
+# This is a comment in Python
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+for i in range(10):
+    print(i)
+This is a simple test sentence.
+for i in range(10):
+    print(i)

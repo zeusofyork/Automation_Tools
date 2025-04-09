@@ -1,0 +1,21 @@
+def hello_world():
+    print('Hello, world!')
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+for i in range(10):
+    print(i)
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+This is a simple test sentence.
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+# This is a comment in Python
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';

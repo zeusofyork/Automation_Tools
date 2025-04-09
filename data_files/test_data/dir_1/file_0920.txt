@@ -1,0 +1,7 @@
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';

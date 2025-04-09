@@ -1,0 +1,11 @@
+<div class='container'>HTML block</div>
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+# This is a comment in Python
+Error: Invalid operation at line 45.

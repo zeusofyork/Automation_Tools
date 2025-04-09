@@ -1,0 +1,15 @@
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+SELECT * FROM users WHERE active = 1;
+SELECT * FROM users WHERE active = 1;
+System.out.println("Java output line");
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+Error: Invalid operation at line 45.

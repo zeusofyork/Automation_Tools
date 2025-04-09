@@ -1,0 +1,15 @@
+# This is a comment in Python
+for i in range(10):
+    print(i)
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+SELECT * FROM users WHERE active = 1;
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';
+This is a simple test sentence.
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>

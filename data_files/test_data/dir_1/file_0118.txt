@@ -1,0 +1,14 @@
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+# This is a comment in Python
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';
+This is a simple test sentence.
+<div class='container'>HTML block</div>

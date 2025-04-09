@@ -1,0 +1,10 @@
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+# This is a comment in Python
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+# This is a comment in Python
+if (user.isAuthenticated()) {
+    showDashboard();
+}

@@ -1,0 +1,16 @@
+SELECT * FROM users WHERE active = 1;
+SELECT * FROM users WHERE active = 1;
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+# This is a comment in Python
+System.out.println("Java output line");
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';

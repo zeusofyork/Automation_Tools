@@ -1,0 +1,6 @@
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>

@@ -1,0 +1,18 @@
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+SELECT * FROM users WHERE active = 1;

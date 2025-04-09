@@ -1,0 +1,25 @@
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+SELECT * FROM users WHERE active = 1;
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");

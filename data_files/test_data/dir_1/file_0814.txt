@@ -1,0 +1,15 @@
+SELECT * FROM users WHERE active = 1;
+for i in range(10):
+    print(i)
+This is a simple test sentence.
+SELECT * FROM users WHERE active = 1;
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;
+for i in range(10):
+    print(i)
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python

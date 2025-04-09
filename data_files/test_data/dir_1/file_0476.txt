@@ -1,0 +1,11 @@
+This is a simple test sentence.
+This is a simple test sentence.
+This is a simple test sentence.
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+System.out.println("Java output line");
+This is a simple test sentence.
+<div class='container'>HTML block</div>
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')

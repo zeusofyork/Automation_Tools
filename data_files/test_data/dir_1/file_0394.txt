@@ -1,0 +1,17 @@
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')

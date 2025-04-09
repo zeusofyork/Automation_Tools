@@ -1,0 +1,9 @@
+for i in range(10):
+    print(i)
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')

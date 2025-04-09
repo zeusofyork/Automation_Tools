@@ -1,0 +1,20 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+Error: Invalid operation at line 45.
+This is a simple test sentence.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+Error: Invalid operation at line 45.
+SELECT * FROM users WHERE active = 1;
+for i in range(10):
+    print(i)
+# This is a comment in Python
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';

@@ -1,0 +1,18 @@
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+Error: Invalid operation at line 45.
+Error: Invalid operation at line 45.

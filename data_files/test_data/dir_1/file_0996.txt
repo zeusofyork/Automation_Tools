@@ -1,0 +1,15 @@
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");
+System.out.println("Java output line");
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");

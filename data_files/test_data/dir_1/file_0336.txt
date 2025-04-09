@@ -1,0 +1,13 @@
+This is a simple test sentence.
+# This is a comment in Python
+This is a simple test sentence.
+SELECT * FROM users WHERE active = 1;
+Error: Invalid operation at line 45.
+Error: Invalid operation at line 45.
+SELECT * FROM users WHERE active = 1;
+for i in range(10):
+    print(i)
+SELECT * FROM users WHERE active = 1;
+if (user.isAuthenticated()) {
+    showDashboard();
+}

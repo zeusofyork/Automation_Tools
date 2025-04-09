@@ -1,0 +1,12 @@
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+# This is a comment in Python
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')

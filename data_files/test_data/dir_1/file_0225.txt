@@ -1,0 +1,10 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';

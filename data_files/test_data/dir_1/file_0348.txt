@@ -1,0 +1,20 @@
+System.out.println("Java output line");
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+for i in range(10):
+    print(i)
+This is a simple test sentence.
+<div class='container'>HTML block</div>
+This is a simple test sentence.
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}

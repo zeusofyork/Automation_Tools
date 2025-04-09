@@ -1,0 +1,8 @@
+<div class='container'>HTML block</div>
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+# This is a comment in Python
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')

@@ -1,0 +1,24 @@
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+This is a simple test sentence.
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+# This is a comment in Python

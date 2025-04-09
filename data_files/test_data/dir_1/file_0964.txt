@@ -1,0 +1,9 @@
+SELECT * FROM users WHERE active = 1;
+This is a simple test sentence.
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+This is a simple test sentence.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+# This is a comment in Python

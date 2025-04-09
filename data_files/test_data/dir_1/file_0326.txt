@@ -1,0 +1,8 @@
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)

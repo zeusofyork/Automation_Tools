@@ -1,0 +1,10 @@
+This is a simple test sentence.
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}

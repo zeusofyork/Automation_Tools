@@ -1,0 +1,10 @@
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+# This is a comment in Python

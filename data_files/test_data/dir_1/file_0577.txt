@@ -1,0 +1,9 @@
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+# This is a comment in Python
+Error: Invalid operation at line 45.
+SELECT * FROM users WHERE active = 1;
+SELECT * FROM users WHERE active = 1;
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';

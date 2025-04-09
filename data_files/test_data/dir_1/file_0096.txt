@@ -1,0 +1,20 @@
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+This is a simple test sentence.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)

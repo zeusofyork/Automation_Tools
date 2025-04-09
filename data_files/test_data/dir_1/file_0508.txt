@@ -1,0 +1,16 @@
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");
+Error: Invalid operation at line 45.
+This is a simple test sentence.
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+# This is a comment in Python

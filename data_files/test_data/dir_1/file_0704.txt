@@ -1,0 +1,11 @@
+<div class='container'>HTML block</div>
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+System.out.println("Java output line");

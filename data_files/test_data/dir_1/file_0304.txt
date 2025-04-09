@@ -1,0 +1,11 @@
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>
+for i in range(10):
+    print(i)
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+Error: Invalid operation at line 45.
+# This is a comment in Python
+<div class='container'>HTML block</div>

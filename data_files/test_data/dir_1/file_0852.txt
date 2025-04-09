@@ -1,0 +1,16 @@
+This is a simple test sentence.
+SELECT * FROM users WHERE active = 1;
+Error: Invalid operation at line 45.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");
+System.out.println("Java output line");

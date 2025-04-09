@@ -1,0 +1,9 @@
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')

@@ -1,0 +1,15 @@
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+# This is a comment in Python
+for i in range(10):
+    print(i)
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';

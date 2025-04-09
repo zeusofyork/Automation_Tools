@@ -1,0 +1,18 @@
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+System.out.println("Java output line");
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");
+System.out.println("Java output line");

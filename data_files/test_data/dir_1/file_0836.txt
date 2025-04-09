@@ -1,0 +1,14 @@
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.
+SELECT * FROM users WHERE active = 1;

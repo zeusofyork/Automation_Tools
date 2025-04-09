@@ -1,0 +1,9 @@
+# This is a comment in Python
+<div class='container'>HTML block</div>
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+System.out.println("Java output line");
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;
+System.out.println("Java output line");

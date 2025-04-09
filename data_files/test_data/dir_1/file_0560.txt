@@ -1,0 +1,11 @@
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+Error: Invalid operation at line 45.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+<div class='container'>HTML block</div>
+<div class='container'>HTML block</div>
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';

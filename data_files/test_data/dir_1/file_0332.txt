@@ -1,0 +1,19 @@
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+# This is a comment in Python
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+SELECT * FROM users WHERE active = 1;

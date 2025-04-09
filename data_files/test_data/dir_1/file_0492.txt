@@ -1,0 +1,12 @@
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+This is a simple test sentence.

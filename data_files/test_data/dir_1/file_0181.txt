@@ -1,0 +1,9 @@
+SELECT * FROM users WHERE active = 1;
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+# This is a comment in Python
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+Error: Invalid operation at line 45.

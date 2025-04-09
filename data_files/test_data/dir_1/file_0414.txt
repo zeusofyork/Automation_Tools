@@ -1,0 +1,11 @@
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;

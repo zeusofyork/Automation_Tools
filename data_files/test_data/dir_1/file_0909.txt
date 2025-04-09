@@ -1,0 +1,15 @@
+<div class='container'>HTML block</div>
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+Error: Invalid operation at line 45.
+Error: Invalid operation at line 45.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';

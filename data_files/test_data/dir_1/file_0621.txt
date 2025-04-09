@@ -1,0 +1,9 @@
+Error: Invalid operation at line 45.
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')

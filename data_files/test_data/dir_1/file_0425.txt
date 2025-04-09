@@ -1,0 +1,11 @@
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+This is a simple test sentence.
+# This is a comment in Python
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')

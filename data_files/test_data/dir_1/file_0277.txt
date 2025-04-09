@@ -1,0 +1,8 @@
+for i in range(10):
+    print(i)
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+# This is a comment in Python
+<div class='container'>HTML block</div>
+# This is a comment in Python

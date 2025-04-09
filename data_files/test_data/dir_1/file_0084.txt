@@ -1,0 +1,16 @@
+def hello_world():
+    print('Hello, world!')
+# This is a comment in Python
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}

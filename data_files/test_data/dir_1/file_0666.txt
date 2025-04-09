@@ -1,0 +1,11 @@
+for i in range(10):
+    print(i)
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+# This is a comment in Python
+SELECT * FROM users WHERE active = 1;
+SELECT * FROM users WHERE active = 1;

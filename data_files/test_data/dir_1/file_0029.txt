@@ -1,0 +1,16 @@
+SELECT * FROM users WHERE active = 1;
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+for i in range(10):
+    print(i)
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')

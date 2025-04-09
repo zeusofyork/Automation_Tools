@@ -1,0 +1,9 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.

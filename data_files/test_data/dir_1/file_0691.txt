@@ -1,0 +1,8 @@
+Error: Invalid operation at line 45.
+# This is a comment in Python
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.

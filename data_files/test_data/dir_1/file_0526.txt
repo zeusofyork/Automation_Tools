@@ -1,0 +1,8 @@
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')

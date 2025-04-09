@@ -1,0 +1,14 @@
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+for i in range(10):
+    print(i)
+if (user.isAuthenticated()) {
+    showDashboard();
+}

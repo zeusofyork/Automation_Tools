@@ -1,0 +1,14 @@
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;
+System.out.println("Java output line");
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+# This is a comment in Python

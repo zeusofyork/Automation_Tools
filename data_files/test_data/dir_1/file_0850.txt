@@ -1,0 +1,16 @@
+# This is a comment in Python
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+# This is a comment in Python
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)
+Error: Invalid operation at line 45.

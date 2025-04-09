@@ -1,0 +1,5 @@
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;

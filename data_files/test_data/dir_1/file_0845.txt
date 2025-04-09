@@ -1,0 +1,6 @@
+# This is a comment in Python
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+SELECT * FROM users WHERE active = 1;

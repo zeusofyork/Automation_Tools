@@ -1,0 +1,7 @@
+SELECT * FROM users WHERE active = 1;
+Error: Invalid operation at line 45.
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)

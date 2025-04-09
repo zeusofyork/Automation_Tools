@@ -1,0 +1,18 @@
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';
+This is a simple test sentence.
+def hello_world():
+    print('Hello, world!')
+SELECT * FROM users WHERE active = 1;

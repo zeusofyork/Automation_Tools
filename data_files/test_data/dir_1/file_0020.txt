@@ -1,0 +1,18 @@
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+System.out.println("Java output line");
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';
+This is a simple test sentence.
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python

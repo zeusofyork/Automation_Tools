@@ -1,0 +1,6 @@
+# This is a comment in Python
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");
+<div class='container'>HTML block</div>
+# This is a comment in Python

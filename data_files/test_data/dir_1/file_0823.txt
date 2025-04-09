@@ -1,0 +1,11 @@
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';
+Error: Invalid operation at line 45.
+# This is a comment in Python
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>
+<div class='container'>HTML block</div>

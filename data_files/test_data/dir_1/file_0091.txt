@@ -1,0 +1,20 @@
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+This is a simple test sentence.
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+# This is a comment in Python
+This is a simple test sentence.
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+SELECT * FROM users WHERE active = 1;

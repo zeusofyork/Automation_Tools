@@ -1,0 +1,21 @@
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+# This is a comment in Python
+Error: Invalid operation at line 45.
+# This is a comment in Python
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+<div class='container'>HTML block</div>
+for i in range(10):
+    print(i)
+# This is a comment in Python

@@ -1,0 +1,28 @@
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+<div class='container'>HTML block</div>
+This is a simple test sentence.
+def hello_world():
+    print('Hello, world!')

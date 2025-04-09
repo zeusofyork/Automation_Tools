@@ -1,0 +1,10 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)

@@ -1,0 +1,21 @@
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+# This is a comment in Python
+This is a simple test sentence.

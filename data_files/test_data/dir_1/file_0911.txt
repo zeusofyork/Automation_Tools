@@ -1,0 +1,18 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+for i in range(10):
+    print(i)
+This is a simple test sentence.
+This is a simple test sentence.
+Error: Invalid operation at line 45.
+System.out.println("Java output line");
+System.out.println("Java output line");

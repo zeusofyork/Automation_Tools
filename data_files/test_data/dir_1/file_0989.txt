@@ -1,0 +1,25 @@
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+# This is a comment in Python
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+This is a simple test sentence.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+SELECT * FROM users WHERE active = 1;
+for i in range(10):
+    print(i)
+# This is a comment in Python

@@ -1,0 +1,15 @@
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+Error: Invalid operation at line 45.
+SELECT * FROM users WHERE active = 1;
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)
+This is a simple test sentence.
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';
+# This is a comment in Python
+SELECT * FROM users WHERE active = 1;
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>

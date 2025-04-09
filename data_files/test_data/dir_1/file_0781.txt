@@ -1,0 +1,18 @@
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+# This is a comment in Python
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')
+# This is a comment in Python
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';

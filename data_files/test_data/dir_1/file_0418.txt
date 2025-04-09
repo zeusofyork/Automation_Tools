@@ -1,0 +1,8 @@
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)

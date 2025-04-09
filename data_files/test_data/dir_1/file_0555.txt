@@ -1,0 +1,9 @@
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')

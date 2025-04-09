@@ -1,0 +1,12 @@
+for i in range(10):
+    print(i)
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.
+SELECT * FROM users WHERE active = 1;
+System.out.println("Java output line");
+<div class='container'>HTML block</div>
+<div class='container'>HTML block</div>

@@ -1,0 +1,10 @@
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>

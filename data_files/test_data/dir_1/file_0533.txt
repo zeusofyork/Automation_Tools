@@ -1,0 +1,8 @@
+System.out.println("Java output line");
+<div class='container'>HTML block</div>
+System.out.println("Java output line");
+System.out.println("Java output line");
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>
+# This is a comment in Python
+System.out.println("Java output line");

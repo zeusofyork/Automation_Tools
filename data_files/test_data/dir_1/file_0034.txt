@@ -1,0 +1,21 @@
+const apiKey = '12345-ABCDE';
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+# This is a comment in Python
+SELECT * FROM users WHERE active = 1;
+This is a simple test sentence.
+This is a simple test sentence.
+This is a simple test sentence.
+Error: Invalid operation at line 45.
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')

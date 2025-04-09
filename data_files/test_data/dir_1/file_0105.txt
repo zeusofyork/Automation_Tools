@@ -1,0 +1,16 @@
+# This is a comment in Python
+# This is a comment in Python
+<div class='container'>HTML block</div>
+# This is a comment in Python
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+for i in range(10):
+    print(i)

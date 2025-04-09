@@ -1,0 +1,7 @@
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+SELECT * FROM users WHERE active = 1;

@@ -1,0 +1,15 @@
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)

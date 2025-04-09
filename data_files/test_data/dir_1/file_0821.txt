@@ -1,0 +1,17 @@
+SELECT * FROM users WHERE active = 1;
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+Error: Invalid operation at line 45.
+This is a simple test sentence.
+This is a simple test sentence.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';

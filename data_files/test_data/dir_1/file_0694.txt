@@ -1,0 +1,15 @@
+SELECT * FROM users WHERE active = 1;
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+# This is a comment in Python
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}

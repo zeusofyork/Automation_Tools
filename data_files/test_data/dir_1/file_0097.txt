@@ -1,0 +1,18 @@
+This is a simple test sentence.
+# This is a comment in Python
+This is a simple test sentence.
+Error: Invalid operation at line 45.
+Error: Invalid operation at line 45.
+# This is a comment in Python
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}

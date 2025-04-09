@@ -1,0 +1,15 @@
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>
+<div class='container'>HTML block</div>
+System.out.println("Java output line");

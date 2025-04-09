@@ -1,0 +1,17 @@
+for i in range(10):
+    print(i)
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+# This is a comment in Python
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");

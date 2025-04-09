@@ -1,0 +1,11 @@
+# This is a comment in Python
+# This is a comment in Python
+for i in range(10):
+    print(i)
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')

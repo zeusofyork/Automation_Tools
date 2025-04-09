@@ -1,0 +1,8 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';
+# This is a comment in Python
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>

@@ -1,0 +1,7 @@
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+# This is a comment in Python
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");

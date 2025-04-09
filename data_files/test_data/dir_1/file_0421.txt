@@ -1,0 +1,8 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+Error: Invalid operation at line 45.
+Error: Invalid operation at line 45.
+Error: Invalid operation at line 45.
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python

@@ -1,0 +1,11 @@
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+<div class='container'>HTML block</div>
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';

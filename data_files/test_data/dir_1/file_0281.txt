@@ -1,0 +1,10 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+# This is a comment in Python

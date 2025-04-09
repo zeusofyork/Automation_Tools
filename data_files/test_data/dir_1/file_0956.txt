@@ -1,0 +1,11 @@
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+# This is a comment in Python
+<div class='container'>HTML block</div>
+for i in range(10):
+    print(i)
+if (user.isAuthenticated()) {
+    showDashboard();
+}

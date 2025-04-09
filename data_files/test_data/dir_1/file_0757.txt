@@ -1,0 +1,10 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+# This is a comment in Python
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");
+# This is a comment in Python
+SELECT * FROM users WHERE active = 1;

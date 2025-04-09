@@ -1,0 +1,10 @@
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>
+# This is a comment in Python

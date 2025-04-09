@@ -1,0 +1,15 @@
+<div class='container'>HTML block</div>
+<div class='container'>HTML block</div>
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+Error: Invalid operation at line 45.
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')

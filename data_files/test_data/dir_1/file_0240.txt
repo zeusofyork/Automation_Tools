@@ -1,0 +1,20 @@
+for i in range(10):
+    print(i)
+Error: Invalid operation at line 45.
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';
+Error: Invalid operation at line 45.
+This is a simple test sentence.
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+# This is a comment in Python
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");

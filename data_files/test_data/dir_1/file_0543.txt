@@ -1,0 +1,12 @@
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+# This is a comment in Python
+<div class='container'>HTML block</div>
+System.out.println("Java output line");
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>

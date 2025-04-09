@@ -1,0 +1,17 @@
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+This is a simple test sentence.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");
+SELECT * FROM users WHERE active = 1;
+System.out.println("Java output line");
+for i in range(10):
+    print(i)

@@ -1,0 +1,22 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+# This is a comment in Python
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';

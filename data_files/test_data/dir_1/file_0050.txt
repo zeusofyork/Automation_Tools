@@ -1,0 +1,22 @@
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+for i in range(10):
+    print(i)
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+SELECT * FROM users WHERE active = 1;
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+for i in range(10):
+    print(i)

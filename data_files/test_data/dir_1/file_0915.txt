@@ -1,0 +1,16 @@
+for i in range(10):
+    print(i)
+This is a simple test sentence.
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}

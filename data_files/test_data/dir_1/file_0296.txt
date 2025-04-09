@@ -1,0 +1,10 @@
+This is a simple test sentence.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')

@@ -1,0 +1,9 @@
+SELECT * FROM users WHERE active = 1;
+for i in range(10):
+    print(i)
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+This is a simple test sentence.
+# This is a comment in Python
+# This is a comment in Python

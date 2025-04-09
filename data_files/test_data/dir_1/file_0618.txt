@@ -1,0 +1,13 @@
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+Error: Invalid operation at line 45.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+This is a simple test sentence.

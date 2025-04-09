@@ -1,0 +1,7 @@
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+SELECT * FROM users WHERE active = 1;
+for i in range(10):
+    print(i)

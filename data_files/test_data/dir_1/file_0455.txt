@@ -1,0 +1,13 @@
+SELECT * FROM users WHERE active = 1;
+This is a simple test sentence.
+for i in range(10):
+    print(i)
+System.out.println("Java output line");
+# This is a comment in Python
+SELECT * FROM users WHERE active = 1;
+System.out.println("Java output line");
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+<div class='container'>HTML block</div>

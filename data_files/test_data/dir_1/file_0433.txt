@@ -1,0 +1,8 @@
+This is a simple test sentence.
+for i in range(10):
+    print(i)
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;

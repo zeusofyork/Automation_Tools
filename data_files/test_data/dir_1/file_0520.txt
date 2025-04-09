@@ -1,0 +1,15 @@
+SELECT * FROM users WHERE active = 1;
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+for i in range(10):
+    print(i)

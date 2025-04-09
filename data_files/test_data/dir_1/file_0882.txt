@@ -1,0 +1,7 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+Error: Invalid operation at line 45.
+# This is a comment in Python
+# This is a comment in Python
+<div class='container'>HTML block</div>
