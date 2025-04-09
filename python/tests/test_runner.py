@@ -13,11 +13,14 @@ def md5(path):
 def run_test():
     original_checksum = md5(TEST_FILE)
     backup_path = BACKUP_DIR / f"{TEST_FILE.name}.bak"
+    
+    BACKUP_DIR.mkdir(parents=True, exist_ok=True)
 
     # Simulate edit
     shutil.copy2(TEST_FILE, MODIFIED_FILE)
     MODIFIED_FILE.write_text("This line was modified.\n")
 
+    
     # Simulate restoring from backup
     shutil.copy2(TEST_FILE, backup_path)
     shutil.copy2(backup_path, MODIFIED_FILE)
