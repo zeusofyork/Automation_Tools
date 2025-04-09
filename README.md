@@ -33,16 +33,17 @@ This tool allows you to search, edit, and manage .txt files using a powerful ter
 <pre>
 📁 Folder Structure
 Automation_Tools/
-├── data_files/               # Working directory for text files
-│   ├── backups/              # Where .bak backups are stored
-│   └── *.txt                 # Dummy/editable text files
+├── data_files/
+│   ├── backups/             # stores .bak backups
+│   └── .gitkeep             # keeps folder tracked
 ├── python/
-│   ├── search_edit.py        # Main script
-│   ├── logs/                 # Timestamped change logs
-│   └── saved_dirs.json       # Stores custom directory history
-├── .git/hooks/
-│   └── pre-commit            # Prevents accidental commit of .bak files
-└── README.md
+│   └── tests/
+│       ├── test_data_files/
+│       │   └── example.txt  # base test file
+│       └── test_runner.py   # auto test script with MD5 validation
+└── .github/
+    └── workflows/
+        └── test-edit-restore.yml  # GitHub Actions workflow
 </pre>
 
 
