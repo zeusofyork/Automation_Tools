@@ -28,9 +28,10 @@ This tool allows you to search, edit, and manage .txt files using a powerful ter
 
 
 
-    📁 Folder Structure
+
 
 <pre>
+📁 Folder Structure
     Automation_Tools/ 
     ├── data_files/ # Working directory for text files │ 
     ├── backups/ # Where .bak backups are stored │ 
