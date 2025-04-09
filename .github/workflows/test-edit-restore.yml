@@ -48,8 +48,8 @@ jobs:
 
       - name: 🧹 Clean up backup files
         run: |
-          if [ -d python/data_files/backups ]; then
-            find python/data_files/backups -name "*.bak" -delete
+          if [ -d Automation_Tools/python/data_files/backups ]; then
+            find Automation_Tools/python/data_files/backups -name "*.bak" -delete
           else
             echo "Backup directory does not exist. Skipping cleanup."
           fi
