@@ -1,0 +1,18 @@
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+This is a simple test_complete sentence.
+This is a simple test_complete sentence.
+Error: Invalid operation at line 45.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+System.out.println("Java output line");
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';

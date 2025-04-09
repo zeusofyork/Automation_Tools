@@ -7,7 +7,7 @@ Error: Invalid operation at line 45.
 if (user.isAuthenticated()) {
     showDashboard();
 }
-This is a simple test sentence.
+This is a simple test_complete sentence.
 System.out.println("Java output line");
 if (user.isAuthenticated()) {
     showDashboard();

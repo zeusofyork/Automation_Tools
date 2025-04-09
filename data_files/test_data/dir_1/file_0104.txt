@@ -1,4 +1,4 @@
-This is a simple test sentence.
+This is a simple test_complete sentence.
 SELECT * FROM users WHERE active = 1;
 System.out.println("Java output line");
 for i in range(10):
@@ -9,6 +9,6 @@ for i in range(10):
     print(i)
 # This is a comment in Python
 System.out.println("Java output line");
-This is a simple test sentence.
+This is a simple test_complete sentence.
 System.out.println("Java output line");
 const apiKey = '12345-ABCDE';

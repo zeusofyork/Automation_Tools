@@ -1,0 +1,11 @@
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+SELECT * FROM users WHERE active = 1;
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>
+System.out.println("Java output line");
+for i in range(10):
+    print(i)
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python

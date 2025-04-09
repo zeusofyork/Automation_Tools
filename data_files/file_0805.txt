@@ -1,0 +1,12 @@
+const apiKey = '12345-ABCDE';
+Error: Invalid operation at line 45.
+System.out.println("Java output line");
+<div class='container'>HTML block</div>
+Error: Invalid operation at line 45.
+This is a simple test sentence.
+SELECT * FROM users WHERE active = 1;
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+SELECT * FROM users WHERE active = 1;

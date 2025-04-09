@@ -1,0 +1,18 @@
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+# This is a comment in Python
+for i in range(10):
+    print(i)
+This is a simple test sentence.
+for i in range(10):
+    print(i)
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';

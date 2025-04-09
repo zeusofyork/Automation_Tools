@@ -6,15 +6,15 @@ for i in range(10):
     print(i)
 for i in range(10):
     print(i)
-This is a simple test sentence.
-This is a simple test sentence.
+This is a simple test_complete sentence.
+This is a simple test_complete sentence.
 if (user.isAuthenticated()) {
     showDashboard();
 }
 SELECT * FROM users WHERE active = 1;
 # This is a comment in Python
 SELECT * FROM users WHERE active = 1;
-This is a simple test sentence.
+This is a simple test_complete sentence.
 if (user.isAuthenticated()) {
     showDashboard();
 }

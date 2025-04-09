@@ -1,0 +1,7 @@
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+This is a simple test sentence.
+for i in range(10):
+    print(i)

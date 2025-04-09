@@ -11,8 +11,8 @@ for i in range(10):
     print(i)
 def hello_world():
     print('Hello, world!')
-This is a simple test sentence.
-This is a simple test sentence.
+This is a simple test_complete sentence.
+This is a simple test_complete sentence.
 for i in range(10):
     print(i)
 SELECT * FROM users WHERE active = 1;

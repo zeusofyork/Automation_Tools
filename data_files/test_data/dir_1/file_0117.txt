@@ -3,5 +3,5 @@ def hello_world():
 for i in range(10):
     print(i)
 Error: Invalid operation at line 45.
-This is a simple test sentence.
+This is a simple test_complete sentence.
 # This is a comment in Python

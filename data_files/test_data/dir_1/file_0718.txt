@@ -10,7 +10,7 @@ SELECT * FROM users WHERE active = 1;
 <div class='container'>HTML block</div>
 for i in range(10):
     print(i)
-This is a simple test sentence.
+This is a simple test_complete sentence.
 Error: Invalid operation at line 45.
 Error: Invalid operation at line 45.
 if (user.isAuthenticated()) {
@@ -18,4 +18,4 @@ if (user.isAuthenticated()) {
 }
 def hello_world():
     print('Hello, world!')
-This is a simple test sentence.
+This is a simple test_complete sentence.

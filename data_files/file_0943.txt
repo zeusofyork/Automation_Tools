@@ -1,0 +1,12 @@
+SELECT * FROM users WHERE active = 1;
+This is a simple test_complete sentence.
+This is a simple test sentence.
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';

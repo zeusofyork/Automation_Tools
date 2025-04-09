@@ -1,0 +1,13 @@
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+This is a simple test sentence.

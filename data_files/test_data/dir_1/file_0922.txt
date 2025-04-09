@@ -2,10 +2,10 @@ def hello_world():
     print('Hello, world!')
 SELECT * FROM users WHERE active = 1;
 const apiKey = '12345-ABCDE';
-This is a simple test sentence.
+This is a simple test_complete sentence.
 for i in range(10):
     print(i)
-This is a simple test sentence.
+This is a simple test_complete sentence.
 SELECT * FROM users WHERE active = 1;
 for i in range(10):
     print(i)
@@ -14,7 +14,7 @@ for i in range(10):
 const apiKey = '12345-ABCDE';
 def hello_world():
     print('Hello, world!')
-This is a simple test sentence.
+This is a simple test_complete sentence.
 <div class='container'>HTML block</div>
 if (user.isAuthenticated()) {
     showDashboard();

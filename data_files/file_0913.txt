@@ -1,0 +1,17 @@
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+# This is a comment in Python
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+This is a simple test sentence.
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}

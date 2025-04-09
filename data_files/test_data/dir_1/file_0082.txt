@@ -1,11 +1,11 @@
 def hello_world():
     print('Hello, world!')
 System.out.println("Java output line");
-This is a simple test sentence.
+This is a simple test_complete sentence.
 const apiKey = '12345-ABCDE';
-This is a simple test sentence.
+This is a simple test_complete sentence.
 # This is a comment in Python
-This is a simple test sentence.
+This is a simple test_complete sentence.
 if (user.isAuthenticated()) {
     showDashboard();
 }

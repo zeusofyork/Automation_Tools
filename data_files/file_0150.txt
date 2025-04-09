@@ -1,0 +1,16 @@
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+This is a simple test_complete sentence.
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+This is a simple test sentence.

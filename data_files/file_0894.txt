@@ -1,0 +1,8 @@
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+# This is a comment in Python
+Error: Invalid operation at line 45.

@@ -1,0 +1,15 @@
+# This is a comment in Python
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+This is a simple test sentence.
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')

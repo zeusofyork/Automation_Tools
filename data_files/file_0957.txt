@@ -1,0 +1,20 @@
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')
+This is a simple test_complete sentence.
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)
+Error: Invalid operation at line 45.
+This is a simple test sentence.
+<div class='container'>HTML block</div>

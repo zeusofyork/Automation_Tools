@@ -10,8 +10,8 @@ def hello_world():
 <div class='container'>HTML block</div>
 def hello_world():
     print('Hello, world!')
-This is a simple test sentence.
-This is a simple test sentence.
+This is a simple test_complete sentence.
+This is a simple test_complete sentence.
 if (user.isAuthenticated()) {
     showDashboard();
 }

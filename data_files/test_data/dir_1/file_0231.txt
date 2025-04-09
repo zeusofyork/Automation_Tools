@@ -1,10 +1,10 @@
-This is a simple test sentence.
+This is a simple test_complete sentence.
 if (user.isAuthenticated()) {
     showDashboard();
 }
 SELECT * FROM users WHERE active = 1;
 const apiKey = '12345-ABCDE';
-This is a simple test sentence.
+This is a simple test_complete sentence.
 # This is a comment in Python
 def hello_world():
     print('Hello, world!')

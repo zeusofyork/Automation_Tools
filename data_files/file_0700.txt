@@ -1,0 +1,21 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;
+This is a simple test_complete sentence.
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+This is a simple test sentence.
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+System.out.println("Java output line");

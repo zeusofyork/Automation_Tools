@@ -1,0 +1,9 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+<div class='container'>HTML block</div>
+for i in range(10):
+    print(i)

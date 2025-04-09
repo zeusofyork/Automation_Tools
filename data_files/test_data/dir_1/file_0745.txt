@@ -1,6 +1,6 @@
 Error: Invalid operation at line 45.
 System.out.println("Java output line");
-This is a simple test sentence.
+This is a simple test_complete sentence.
 SELECT * FROM users WHERE active = 1;
 Error: Invalid operation at line 45.
 if (user.isAuthenticated()) {

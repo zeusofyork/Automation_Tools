@@ -1,0 +1,13 @@
+System.out.println("Java output line");
+SELECT * FROM users WHERE active = 1;
+This is a simple test_complete sentence.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+This is a simple test_complete sentence.
+This is a simple test sentence.
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)

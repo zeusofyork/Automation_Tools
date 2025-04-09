@@ -1,0 +1,19 @@
+This is a simple test_complete sentence.
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+SELECT * FROM users WHERE active = 1;
+SELECT * FROM users WHERE active = 1;
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");

@@ -14,5 +14,5 @@ for i in range(10):
 System.out.println("Java output line");
 def hello_world():
     print('Hello, world!')
-This is a simple test sentence.
+This is a simple test_complete sentence.
 # This is a comment in Python

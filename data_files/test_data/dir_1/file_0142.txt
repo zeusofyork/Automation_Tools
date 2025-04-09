@@ -4,14 +4,14 @@ if (user.isAuthenticated()) {
 }
 SELECT * FROM users WHERE active = 1;
 System.out.println("Java output line");
-This is a simple test sentence.
+This is a simple test_complete sentence.
 for i in range(10):
     print(i)
 # This is a comment in Python
 for i in range(10):
     print(i)
-This is a simple test sentence.
+This is a simple test_complete sentence.
 # This is a comment in Python
-This is a simple test sentence.
+This is a simple test_complete sentence.
 Error: Invalid operation at line 45.
 SELECT * FROM users WHERE active = 1;

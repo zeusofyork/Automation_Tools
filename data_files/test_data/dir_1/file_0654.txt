@@ -1,5 +1,5 @@
-This is a simple test sentence.
-This is a simple test sentence.
+This is a simple test_complete sentence.
+This is a simple test_complete sentence.
 if (user.isAuthenticated()) {
     showDashboard();
 }
@@ -10,11 +10,11 @@ System.out.println("Java output line");
 if (user.isAuthenticated()) {
     showDashboard();
 }
-This is a simple test sentence.
+This is a simple test_complete sentence.
 # This is a comment in Python
 def hello_world():
     print('Hello, world!')
 const apiKey = '12345-ABCDE';
 const apiKey = '12345-ABCDE';
 const apiKey = '12345-ABCDE';
-This is a simple test sentence.
+This is a simple test_complete sentence.

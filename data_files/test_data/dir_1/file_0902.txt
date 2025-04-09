@@ -3,7 +3,7 @@ if (user.isAuthenticated()) {
     showDashboard();
 }
 # This is a comment in Python
-This is a simple test sentence.
+This is a simple test_complete sentence.
 SELECT * FROM users WHERE active = 1;
 def hello_world():
     print('Hello, world!')
@@ -12,5 +12,5 @@ if (user.isAuthenticated()) {
 }
 SELECT * FROM users WHERE active = 1;
 # This is a comment in Python
-This is a simple test sentence.
+This is a simple test_complete sentence.
 const apiKey = '12345-ABCDE';

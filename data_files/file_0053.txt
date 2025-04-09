@@ -1,0 +1,7 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+# This is a comment in Python
+Error: Invalid operation at line 45.
+# This is a comment in Python
+This is a simple test sentence.

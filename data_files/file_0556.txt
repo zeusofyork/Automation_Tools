@@ -1,0 +1,16 @@
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+This is a simple test sentence.
+Error: Invalid operation at line 45.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+# This is a comment in Python

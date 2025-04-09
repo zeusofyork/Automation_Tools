@@ -8,11 +8,11 @@ for i in range(10):
 if (user.isAuthenticated()) {
     showDashboard();
 }
-This is a simple test sentence.
+This is a simple test_complete sentence.
 def hello_world():
     print('Hello, world!')
 Error: Invalid operation at line 45.
-This is a simple test sentence.
+This is a simple test_complete sentence.
 System.out.println("Java output line");
 const apiKey = '12345-ABCDE';
 def hello_world():

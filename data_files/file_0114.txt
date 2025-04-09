@@ -1,0 +1,13 @@
+This is a simple test sentence.
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+Error: Invalid operation at line 45.
+SELECT * FROM users WHERE active = 1;

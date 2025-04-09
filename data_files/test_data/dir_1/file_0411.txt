@@ -1,10 +1,10 @@
-This is a simple test sentence.
+This is a simple test_complete sentence.
 for i in range(10):
     print(i)
 # This is a comment in Python
-This is a simple test sentence.
+This is a simple test_complete sentence.
 <div class='container'>HTML block</div>
-This is a simple test sentence.
+This is a simple test_complete sentence.
 Error: Invalid operation at line 45.
 for i in range(10):
     print(i)

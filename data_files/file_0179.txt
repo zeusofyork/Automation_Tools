@@ -1,0 +1,19 @@
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+This is a simple test_complete sentence.
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+This is a simple test sentence.
+# This is a comment in Python
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+for i in range(10):
+    print(i)

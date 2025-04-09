@@ -228,25 +228,72 @@ def main():
 
     display_matches(matches)
 
-    selection = input("\nEnter number(s) of the lines to modify (comma-separated): ")
-    selected_indexes = [int(i.strip()) for i in selection.split(',') if i.strip().isdigit()]
+    selection = input("\nEnter number(s) of the lines to modify (comma-separated), or * to edit all: ").strip()
 
     username = get_last_editor(matches[0]['file'])
     log_file, log_path = create_log_file(username)
 
-    print("\nOptions:\n1. Edit part of the string\n2. Delete the line\n3. Manually edit the whole line\n4. Roll back from latest backup")
+    if selection == "*":
+        selected_matches = matches
 
-    for sel in selected_indexes:
-        match = next((m for m in matches if m['index'] == sel), None)
-        if not match:
-            print(f"Invalid selection: {sel}")
-            continue
+        print("\nBatch edit selected!")
+        print("Options:\n1. Edit part of the string\n2. Delete the line\n3. Manually edit the whole line\n4. Roll back from latest backup")
+        action = input("Choose an action [1-4] to apply to all matches: ").strip()
 
-        print(f"\nSelected: {match['file']} [Line {match['line_number']}]")
-        print(f"Line content: {match['line']}")
-        sub_action = input("Choose an action [1-4]: ").strip()
+        if action == "1":
+            old_val = input("Enter value to replace: ")
+            new_val = input("Enter new value: ")
+        elif action == "3":
+            new_line = input("Enter the full new line to replace all selected lines with: ")
 
-        modify_line(match, sub_action, log_file)
+        for match in selected_matches:
+            print(f"\nEditing: {match['file']} [Line {match['line_number']}]")
+            file_path = match['file']
+            line_number = match['line_number']
+
+            with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                lines = f.readlines()
+
+            backup_file(file_path)
+            original_line = lines[line_number - 1].rstrip('\n')
+
+            if action == "1":
+                updated_line = original_line.replace(old_val, new_val)
+            elif action == "2":
+                updated_line = ""
+            elif action == "3":
+                updated_line = new_line
+            elif action == "4":
+                print("Rolling back from latest backup...")
+                if restore_latest_backup(file_path):
+                    continue
+                else:
+                    print("No backup available.")
+                    continue
+            else:
+                print("Invalid action. Skipping.")
+                continue
+
+            lines[line_number - 1] = updated_line + '\n'
+            with open(file_path, 'w', encoding='utf-8', errors='ignore') as f:
+                f.writelines(lines)
+
+            if action in ["1", "2", "3"]:
+                log_change(log_file, file_path, line_number, original_line, updated_line)
+
+            print(f"Updated: {file_path}")
+
+    else:
+        selected_indexes = [int(i.strip()) for i in selection.split(',') if i.strip().isdigit()]
+        selected_matches = [m for m in matches if m['index'] in selected_indexes]
+
+        print("\nOptions:\n1. Edit part of the string\n2. Delete the line\n3. Manually edit the whole line\n4. Roll back from latest backup")
+
+        for match in selected_matches:
+            print(f"\nSelected: {match['file']} [Line {match['line_number']}]")
+            print(f"Line content: {match['line']}")
+            action = input("Choose an action [1-4]: ").strip()
+            modify_line(match, action, log_file)
 
     log_file.close()
     print(f"\nEdits completed. Log saved to: {log_path}")

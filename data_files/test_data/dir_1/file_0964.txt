@@ -1,8 +1,8 @@
 SELECT * FROM users WHERE active = 1;
-This is a simple test sentence.
+This is a simple test_complete sentence.
 System.out.println("Java output line");
 const apiKey = '12345-ABCDE';
-This is a simple test sentence.
+This is a simple test_complete sentence.
 if (user.isAuthenticated()) {
     showDashboard();
 }

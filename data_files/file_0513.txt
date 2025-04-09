@@ -1,0 +1,15 @@
+Error: Invalid operation at line 45.
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+This is a simple test_complete sentence.
+System.out.println("Java output line");
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+const apiKey = '12345-ABCDE';
+# This is a comment in Python

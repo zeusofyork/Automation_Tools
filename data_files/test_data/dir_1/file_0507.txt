@@ -8,4 +8,4 @@ if (user.isAuthenticated()) {
 }
 def hello_world():
     print('Hello, world!')
-This is a simple test sentence.
+This is a simple test_complete sentence.

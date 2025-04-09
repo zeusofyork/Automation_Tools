@@ -1,0 +1,18 @@
+Error: Invalid operation at line 45.
+This is a simple test_complete sentence.
+This is a simple test_complete sentence.
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+This is a simple test sentence.
+<div class='container'>HTML block</div>
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)
+SELECT * FROM users WHERE active = 1;
+SELECT * FROM users WHERE active = 1;

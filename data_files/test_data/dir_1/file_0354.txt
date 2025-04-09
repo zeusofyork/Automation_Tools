@@ -2,11 +2,11 @@
 def hello_world():
     print('Hello, world!')
 SELECT * FROM users WHERE active = 1;
-This is a simple test sentence.
+This is a simple test_complete sentence.
 System.out.println("Java output line");
 def hello_world():
     print('Hello, world!')
 System.out.println("Java output line");
 Error: Invalid operation at line 45.
-This is a simple test sentence.
+This is a simple test_complete sentence.
 System.out.println("Java output line");

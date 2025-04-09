@@ -1,0 +1,8 @@
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+This is a simple test_complete sentence.
+for i in range(10):
+    print(i)
+SELECT * FROM users WHERE active = 1;
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';

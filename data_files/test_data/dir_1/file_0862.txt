@@ -4,7 +4,7 @@ def hello_world():
 Error: Invalid operation at line 45.
 # This is a comment in Python
 const apiKey = '12345-ABCDE';
-This is a simple test sentence.
+This is a simple test_complete sentence.
 Error: Invalid operation at line 45.
 if (user.isAuthenticated()) {
     showDashboard();
@@ -12,7 +12,7 @@ if (user.isAuthenticated()) {
 SELECT * FROM users WHERE active = 1;
 for i in range(10):
     print(i)
-This is a simple test sentence.
+This is a simple test_complete sentence.
 # This is a comment in Python
 Error: Invalid operation at line 45.
 <div class='container'>HTML block</div>

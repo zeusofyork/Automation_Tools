@@ -1,0 +1,19 @@
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+This is a simple test_complete sentence.
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+This is a simple test sentence.

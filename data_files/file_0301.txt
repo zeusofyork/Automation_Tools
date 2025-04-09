@@ -1,0 +1,16 @@
+This is a simple test_complete sentence.
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>

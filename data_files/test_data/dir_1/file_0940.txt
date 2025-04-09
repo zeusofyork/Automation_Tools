@@ -8,13 +8,13 @@ if (user.isAuthenticated()) {
 SELECT * FROM users WHERE active = 1;
 # This is a comment in Python
 # This is a comment in Python
-This is a simple test sentence.
+This is a simple test_complete sentence.
 if (user.isAuthenticated()) {
     showDashboard();
 }
 def hello_world():
     print('Hello, world!')
-This is a simple test sentence.
+This is a simple test_complete sentence.
 <div class='container'>HTML block</div>
 System.out.println("Java output line");
 System.out.println("Java output line");

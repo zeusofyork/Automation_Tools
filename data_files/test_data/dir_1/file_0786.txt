@@ -3,13 +3,13 @@ def hello_world():
     print('Hello, world!')
 SELECT * FROM users WHERE active = 1;
 # This is a comment in Python
-This is a simple test sentence.
+This is a simple test_complete sentence.
 # This is a comment in Python
 def hello_world():
     print('Hello, world!')
-This is a simple test sentence.
-This is a simple test sentence.
+This is a simple test_complete sentence.
+This is a simple test_complete sentence.
 # This is a comment in Python
 # This is a comment in Python
 SELECT * FROM users WHERE active = 1;
-This is a simple test sentence.
+This is a simple test_complete sentence.

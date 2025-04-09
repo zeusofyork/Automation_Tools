@@ -1,0 +1,25 @@
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+This is a simple test sentence.
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';

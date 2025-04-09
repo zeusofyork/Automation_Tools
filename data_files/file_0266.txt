@@ -1,0 +1,17 @@
+This is a simple test_complete sentence.
+const apiKey = '12345-ABCDE';
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+This is a simple test sentence.
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+System.out.println("Java output line");

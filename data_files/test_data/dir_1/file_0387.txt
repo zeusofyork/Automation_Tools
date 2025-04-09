@@ -3,7 +3,7 @@ def hello_world():
 if (user.isAuthenticated()) {
     showDashboard();
 }
-This is a simple test sentence.
+This is a simple test_complete sentence.
 <div class='container'>HTML block</div>
 def hello_world():
     print('Hello, world!')
@@ -13,7 +13,7 @@ SELECT * FROM users WHERE active = 1;
 # This is a comment in Python
 for i in range(10):
     print(i)
-This is a simple test sentence.
+This is a simple test_complete sentence.
 for i in range(10):
     print(i)
 const apiKey = '12345-ABCDE';

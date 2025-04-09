@@ -1,5 +1,5 @@
 # This is a comment in Python
-This is a simple test sentence.
+This is a simple test_complete sentence.
 if (user.isAuthenticated()) {
     showDashboard();
 }

@@ -1,0 +1,14 @@
+for i in range(10):
+    print(i)
+This is a simple test_complete sentence.
+System.out.println("Java output line");
+for i in range(10):
+    print(i)
+This is a simple test sentence.
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';

@@ -1,11 +1,11 @@
 System.out.println("Java output line");
-This is a simple test sentence.
+This is a simple test_complete sentence.
 for i in range(10):
     print(i)
 if (user.isAuthenticated()) {
     showDashboard();
 }
-This is a simple test sentence.
+This is a simple test_complete sentence.
 SELECT * FROM users WHERE active = 1;
 for i in range(10):
     print(i)
@@ -13,7 +13,7 @@ const apiKey = '12345-ABCDE';
 if (user.isAuthenticated()) {
     showDashboard();
 }
-This is a simple test sentence.
+This is a simple test_complete sentence.
 if (user.isAuthenticated()) {
     showDashboard();
 }

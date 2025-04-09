@@ -1,0 +1,23 @@
+This is a simple test sentence.
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+<div class='container'>HTML block</div>
+<div class='container'>HTML block</div>
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");
+SELECT * FROM users WHERE active = 1;
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+if (user.isAuthenticated()) {
+    showDashboard();
+}

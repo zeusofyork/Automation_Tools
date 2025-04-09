@@ -1,0 +1,19 @@
+# This is a comment in Python
+This is a simple test_complete sentence.
+# This is a comment in Python
+Error: Invalid operation at line 45.
+SELECT * FROM users WHERE active = 1;
+for i in range(10):
+    print(i)
+System.out.println("Java output line");
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+System.out.println("Java output line");
+This is a simple test sentence.

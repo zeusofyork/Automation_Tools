@@ -1,0 +1,12 @@
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)
+This is a simple test_complete sentence.
+# This is a comment in Python
+# This is a comment in Python
+This is a simple test sentence.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python

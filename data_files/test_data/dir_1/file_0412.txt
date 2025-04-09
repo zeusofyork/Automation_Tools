@@ -1,4 +1,4 @@
-This is a simple test sentence.
+This is a simple test_complete sentence.
 const apiKey = '12345-ABCDE';
 for i in range(10):
     print(i)
@@ -14,6 +14,6 @@ if (user.isAuthenticated()) {
 System.out.println("Java output line");
 SELECT * FROM users WHERE active = 1;
 SELECT * FROM users WHERE active = 1;
-This is a simple test sentence.
+This is a simple test_complete sentence.
 const apiKey = '12345-ABCDE';
 System.out.println("Java output line");

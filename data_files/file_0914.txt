@@ -1,0 +1,15 @@
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+const apiKey = '12345-ABCDE';
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.
+SELECT * FROM users WHERE active = 1;
+<div class='container'>HTML block</div>
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+This is a simple test sentence.
+# This is a comment in Python

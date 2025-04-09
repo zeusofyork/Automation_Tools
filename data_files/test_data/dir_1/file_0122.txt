@@ -3,8 +3,8 @@ for i in range(10):
 System.out.println("Java output line");
 const apiKey = '12345-ABCDE';
 SELECT * FROM users WHERE active = 1;
-This is a simple test sentence.
+This is a simple test_complete sentence.
 def hello_world():
     print('Hello, world!')
-This is a simple test sentence.
+This is a simple test_complete sentence.
 System.out.println("Java output line");

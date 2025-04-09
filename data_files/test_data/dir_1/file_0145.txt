@@ -3,9 +3,9 @@ if (user.isAuthenticated()) {
 }
 for i in range(10):
     print(i)
-This is a simple test sentence.
+This is a simple test_complete sentence.
 # This is a comment in Python
-This is a simple test sentence.
+This is a simple test_complete sentence.
 def hello_world():
     print('Hello, world!')
 def hello_world():

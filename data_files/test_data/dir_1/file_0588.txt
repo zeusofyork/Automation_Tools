@@ -7,9 +7,9 @@ def hello_world():
 def hello_world():
     print('Hello, world!')
 # This is a comment in Python
-This is a simple test sentence.
+This is a simple test_complete sentence.
 SELECT * FROM users WHERE active = 1;
-This is a simple test sentence.
+This is a simple test_complete sentence.
 for i in range(10):
     print(i)
 # This is a comment in Python

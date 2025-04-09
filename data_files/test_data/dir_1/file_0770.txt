@@ -1,5 +1,5 @@
 System.out.println("Java output line");
-This is a simple test sentence.
+This is a simple test_complete sentence.
 SELECT * FROM users WHERE active = 1;
 const apiKey = '12345-ABCDE';
 System.out.println("Java output line");
@@ -11,4 +11,4 @@ Error: Invalid operation at line 45.
 if (user.isAuthenticated()) {
     showDashboard();
 }
-This is a simple test sentence.
+This is a simple test_complete sentence.

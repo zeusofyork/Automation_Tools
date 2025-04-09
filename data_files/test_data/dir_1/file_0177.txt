@@ -4,5 +4,5 @@ SELECT * FROM users WHERE active = 1;
 def hello_world():
     print('Hello, world!')
 SELECT * FROM users WHERE active = 1;
-This is a simple test sentence.
+This is a simple test_complete sentence.
 <div class='container'>HTML block</div>

@@ -1,0 +1,5 @@
+This is a simple test sentence.
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+System.out.println("Java output line");
+const apiKey = '12345-ABCDE';

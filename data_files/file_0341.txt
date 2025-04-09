@@ -1,0 +1,15 @@
+This is a simple test sentence.
+def hello_world():
+    print('Hello, world!')
+for i in range(10):
+    print(i)
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+# This is a comment in Python
+SELECT * FROM users WHERE active = 1;
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+if (user.isAuthenticated()) {
+    showDashboard();
+}

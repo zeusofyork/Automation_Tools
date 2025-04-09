@@ -3,6 +3,6 @@
 # This is a comment in Python
 def hello_world():
     print('Hello, world!')
-This is a simple test sentence.
+This is a simple test_complete sentence.
 System.out.println("Java output line");
-This is a simple test sentence.
+This is a simple test_complete sentence.

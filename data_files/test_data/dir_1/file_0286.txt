@@ -13,7 +13,7 @@ SELECT * FROM users WHERE active = 1;
 Error: Invalid operation at line 45.
 for i in range(10):
     print(i)
-This is a simple test sentence.
+This is a simple test_complete sentence.
 if (user.isAuthenticated()) {
     showDashboard();
 }

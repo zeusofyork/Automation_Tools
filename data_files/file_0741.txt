@@ -1,0 +1,6 @@
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';
+SELECT * FROM users WHERE active = 1;
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>

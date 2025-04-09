@@ -15,7 +15,7 @@ if (user.isAuthenticated()) {
     showDashboard();
 }
 System.out.println("Java output line");
-This is a simple test sentence.
+This is a simple test_complete sentence.
 const apiKey = '12345-ABCDE';
 for i in range(10):
     print(i)

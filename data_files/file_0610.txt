@@ -1,0 +1,11 @@
+# This is a comment in Python
+This is a simple test_complete sentence.
+System.out.println("Java output line");
+for i in range(10):
+    print(i)
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+This is a simple test sentence.
+def hello_world():
+    print('Hello, world!')

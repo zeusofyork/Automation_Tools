@@ -1,0 +1,19 @@
+for i in range(10):
+    print(i)
+def hello_world():
+    print('Hello, world!')
+This is a simple test sentence.
+for i in range(10):
+    print(i)
+const apiKey = '12345-ABCDE';
+# This is a comment in Python
+<div class='container'>HTML block</div>
+SELECT * FROM users WHERE active = 1;
+# This is a comment in Python
+Error: Invalid operation at line 45.
+<div class='container'>HTML block</div>
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';

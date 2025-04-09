@@ -1,5 +1,5 @@
 SELECT * FROM users WHERE active = 1;
-This is a simple test sentence.
+This is a simple test_complete sentence.
 def hello_world():
     print('Hello, world!')
 if (user.isAuthenticated()) {

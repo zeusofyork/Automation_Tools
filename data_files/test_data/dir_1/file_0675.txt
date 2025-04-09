@@ -4,10 +4,10 @@ def hello_world():
     print('Hello, world!')
 def hello_world():
     print('Hello, world!')
-This is a simple test sentence.
+This is a simple test_complete sentence.
 Error: Invalid operation at line 45.
 for i in range(10):
     print(i)
 System.out.println("Java output line");
-This is a simple test sentence.
+This is a simple test_complete sentence.
 # This is a comment in Python

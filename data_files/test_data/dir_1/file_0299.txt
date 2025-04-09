@@ -12,7 +12,7 @@ if (user.isAuthenticated()) {
     showDashboard();
 }
 System.out.println("Java output line");
-This is a simple test sentence.
+This is a simple test_complete sentence.
 if (user.isAuthenticated()) {
     showDashboard();
 }

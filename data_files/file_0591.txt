@@ -1,0 +1,11 @@
+Error: Invalid operation at line 45.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+This is a simple test sentence.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+SELECT * FROM users WHERE active = 1;

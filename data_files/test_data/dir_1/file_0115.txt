@@ -2,8 +2,8 @@
 const apiKey = '12345-ABCDE';
 SELECT * FROM users WHERE active = 1;
 const apiKey = '12345-ABCDE';
-This is a simple test sentence.
-This is a simple test sentence.
+This is a simple test_complete sentence.
+This is a simple test_complete sentence.
 for i in range(10):
     print(i)
 # This is a comment in Python
@@ -11,7 +11,7 @@ def hello_world():
     print('Hello, world!')
 for i in range(10):
     print(i)
-This is a simple test sentence.
+This is a simple test_complete sentence.
 System.out.println("Java output line");
 def hello_world():
     print('Hello, world!')

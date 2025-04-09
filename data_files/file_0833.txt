@@ -1,0 +1,21 @@
+SELECT * FROM users WHERE active = 1;
+def hello_world():
+    print('Hello, world!')
+const apiKey = '12345-ABCDE';
+<div class='container'>HTML block</div>
+for i in range(10):
+    print(i)
+Error: Invalid operation at line 45.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+# This is a comment in Python
+# This is a comment in Python
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+This is a simple test sentence.
+const apiKey = '12345-ABCDE';
+for i in range(10):
+    print(i)

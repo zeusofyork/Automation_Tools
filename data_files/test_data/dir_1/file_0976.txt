@@ -4,7 +4,7 @@ if (user.isAuthenticated()) {
 def hello_world():
     print('Hello, world!')
 const apiKey = '12345-ABCDE';
-This is a simple test sentence.
+This is a simple test_complete sentence.
 def hello_world():
     print('Hello, world!')
 SELECT * FROM users WHERE active = 1;

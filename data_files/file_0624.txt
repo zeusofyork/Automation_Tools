@@ -1,0 +1,25 @@
+for i in range(10):
+    print(i)
+for i in range(10):
+    print(i)
+This is a simple test_complete sentence.
+This is a simple test sentence.
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+for i in range(10):
+    print(i)
+# This is a comment in Python
+Error: Invalid operation at line 45.
+const apiKey = '12345-ABCDE';
+System.out.println("Java output line");
+def hello_world():
+    print('Hello, world!')
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+const apiKey = '12345-ABCDE';

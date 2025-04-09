@@ -1,0 +1,24 @@
+<div class='container'>HTML block</div>
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+System.out.println("Java output line");
+for i in range(10):
+    print(i)
+<div class='container'>HTML block</div>
+def hello_world():
+    print('Hello, world!')
+Error: Invalid operation at line 45.
+Error: Invalid operation at line 45.
+for i in range(10):
+    print(i)
+This is a simple test_complete sentence.
+This is a simple test sentence.
+# This is a comment in Python
+if (user.isAuthenticated()) {
+    showDashboard();
+}
+def hello_world():
+    print('Hello, world!')
+def hello_world():
+    print('Hello, world!')
