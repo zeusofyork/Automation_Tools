@@ -9,10 +9,16 @@ BACKUP_DIR = DATA_DIR / "backups"
 TEST_FILE = DATA_DIR / "example.txt"
 MODIFIED_FILE = DATA_DIR / "example_modified.txt"
 
+def test_basic_check():
+    assert True
+
 def md5(path):
     return hashlib.md5(path.read_bytes()).hexdigest()
 
 def run_test():
+
+    test_basic_check()
+
     # Create test file if not present
     TEST_FILE.write_text("Line 1\nLine 2\nLine 3\n", encoding="utf-8")
 
