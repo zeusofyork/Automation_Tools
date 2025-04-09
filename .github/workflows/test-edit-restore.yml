@@ -19,11 +19,13 @@ jobs:
         run: pip install flake8
 
       - name: 🔍 Lint the script
-        run: flake8 python/search_edit.py
+        run: flake8 Automation_Tools/python/search_edit.py
 
       - name: 🚧 Run test script
-        run: python python/tests/test_runner.py
+        run: python Automation_Tools/python/tests/test_runner.py
 
-      - name: 🧹 Clean .bak files after test
+      - name: 🧹 Clean up backup files
         run: |
-          find data_files/backups -name "*.bak" -delete
+          if [ -d Automation_Tools/data_files/backups ]; then
+            find Automation_Tools/data_files/backups -name "*.bak" -delete
+          fi
