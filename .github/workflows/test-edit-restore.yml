@@ -16,16 +16,28 @@ jobs:
           python-version: 3.11
 
       - name: ✅ Install dependencies
-        run: pip install flake8
+        run: |
+          pip install flake8 pytest
 
-      - name: 🔍 Lint the script
-        run: flake8 python/search_edit.py
+      - name: 🔍 Debug and lint the script
+        run: |
+          echo "Working directory: $(pwd)"
+          echo "Listing contents:"
+          ls -R
+          echo "Checking that python/search_edit.py exists:"
+          ls -la python
+          flake8 python/search_edit.py
 
-      - name: 🚧 Run test script
-        run: python /python/tests/test_runner.py
+      - name: 🧪 Run tests with pytest
+        run: pytest python/tests
+
+      - name: 🚧 Run test script manually (if needed)
+        run: python python/tests/test_runner.py
 
       - name: 🧹 Clean up backup files
         run: |
-          if [ -d Automation_Tools/data_files/backups ]; then
-            find Automation_Tools/data_files/backups -name "*.bak" -delete
+          if [ -d python/data_files/backups ]; then
+            find python/data_files/backups -name "*.bak" -delete
+          else
+            echo "Backup directory does not exist. Skipping cleanup."
           fi
