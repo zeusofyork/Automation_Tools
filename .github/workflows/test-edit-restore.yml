@@ -1,0 +1,29 @@
+name: Test Edit & Restore Flow
+
+on: [push, pull_request]
+
+jobs:
+  check-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📦 Checkout code
+        uses: actions/checkout@v3
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: ✅ Install dependencies
+        run: pip install flake8
+
+      - name: 🔍 Lint the script
+        run: flake8 python/search_edit.py
+
+      - name: 🚧 Run test script
+        run: python python/tests/test_runner.py
+
+      - name: 🧹 Clean .bak files after test
+        run: |
+          find data_files/backups -name "*.bak" -delete
