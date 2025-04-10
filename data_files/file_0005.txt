@@ -1,6 +1,6 @@
 SELECT * FROM users WHERE active = 1;
 <div class='container'>HTML block</div>
-if (user.isAuthenticated()) {
+if (user.isNotAuthenticated()) {
     showDashboard();
 }
 This is a simple test sentence.

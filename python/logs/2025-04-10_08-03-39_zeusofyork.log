@@ -1,0 +1,10 @@
+[FILE]: /mnt/c/Users/zeuso/Desktop/Reyes/dev/Automation_Tools/data_files/file_0005.txt
+[LINE]: 3
+[CHANGE]:
+!!**if (user.isAuthenticated()) {**!! --> !!**if (user.isNotAuthenticated()) {**!!
+------------------------------------------------------------
+[FILE]: /mnt/c/Users/zeuso/Desktop/Reyes/dev/Automation_Tools/data_files/file_0005.txt
+[LINE]: 7
+[CHANGE]:
+!!**if (user.isAuthenticated()) {**!! --> !!**if (user.isAuthenticated()) {**!!
+------------------------------------------------------------

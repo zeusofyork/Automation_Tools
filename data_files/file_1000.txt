@@ -1,5 +1,5 @@
 <div class='container'>HTML block</div>
-if (user.isAuthenticated()) {
+if (user.isNotAuthenticated()) {
     showDashboard();
 }
 System.out.println("Java output line");

@@ -1,4 +1,4 @@
-for i in range(10):
+4 i in range(10):
     print(i)
 # This is a comment in Python
 This is a EXTREMELY COMPLICATED test_complete sentence.
@@ -7,7 +7,7 @@ if (user.isAuthenticated()) {
 }
 System.out.println("Java output line");
 System.out.println("Java output line");
-for i in range(10):
+4 i in range(10):
     print(i)
 SELECT * FROM users WHERE active = 1;
 # This is a comment in Python
